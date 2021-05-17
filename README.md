@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavya-code-r
 - 👀 I’m interesting in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning html,css
 
 
 <!---
